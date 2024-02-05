@@ -1,6 +1,4 @@
-# Welcome to the Cybersecurity Mastery Course! 🛡️💻
-
-## Module 1: Introduction to Cybersecurity
+# Module 1: Introduction to Cybersecurity
 
 ### 1.1 Definition and Importance of Cybersecurity
 
@@ -77,3 +75,6 @@ Understand the ethical considerations surrounding the responsible disclosure of 
 ### [Go to Index](#table-of-contents) | [Next Module: Networking Fundamentals](Module%202.md)
 
 *Secure the Future. Learn Cybersecurity.*
+
+
+###--Ritwik Dadarwal
