@@ -19,7 +19,7 @@ In a digitally interconnected world, cybersecurity is not just a necessity; it's
 
 ## What will you learn here?
 ### [Module 1: Introduction to Cybersecurity](Module1.md)
-**[1.1 Definition and Importance of Cybersecurity](Module1.md#module11)**
+**[1.1 Definition and Importance of Cybersecurity](Module1.md#module-11)**
 
 - Overview of Cybersecurity
 - Historical Context and Evolution
