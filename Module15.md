@@ -1,7 +1,7 @@
 # Module 15: Cloud Security
 
-<a id="module151">
-### 15.1 Cloud Computing Basics
+<a id="module151"></a>
+### Cloud Computing Basics
 
 Cloud computing has become integral to modern IT infrastructure. Understanding its basics is crucial for securing cloud environments.
 
@@ -44,7 +44,7 @@ Cloud computing has become integral to modern IT infrastructure. Understanding i
      # Integration of on-premise data center with AWS services.
      ```
 
-<a id="module152">
+<a id="module152"></a>
 ### 15.2 Securing Cloud Infrastructure
 
 Securing cloud infrastructure involves a shared responsibility model and robust identity and access management practices.
