@@ -74,7 +74,7 @@ server {
     # Additional SSL configurations...
 }
 ```
-### [Go to Index](index.md) | [Previous Module: Operating Sstem Security](Module3.md) | [Next Module: Web Application Security](Module5.md)
+### [Go to Index](index.md) | [Previous Module: Operating System Security](Module3.md) | [Next Module: Web Application Security](Module5.md)
 
 *Secure the Future. Learn Cybersecurity.*
 
