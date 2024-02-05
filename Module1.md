@@ -72,7 +72,7 @@ Explore the tools and techniques ethical hackers use to identify and rectify vul
 *Responsible Disclosure:*
 Understand the ethical considerations surrounding the responsible disclosure of vulnerabilities. Learn how ethical hackers collaborate with organizations to fix security flaws without causing harm.
 
-### [Go to Index](#table-of-contents) | [Next Module: Networking Fundamentals](Module%202.md)
+### [Go to Index](index.md) | [Next Module: Networking Fundamentals](Module2.md)
 
 *Secure the Future. Learn Cybersecurity.*
 
