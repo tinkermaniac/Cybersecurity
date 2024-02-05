@@ -1,7 +1,7 @@
 # Module 1: Introduction to Cybersecurity
 
 ### 1.1 Definition and Importance of Cybersecurity
-#module-11
+#module11
 #### Overview of Cybersecurity
 
 In the interconnected digital landscape, Cybersecurity serves as the vigilant guardian of data integrity and confidentiality. It encompasses a spectrum of practices, technologies, and methodologies designed to defend against cyber threats. Understanding the broader landscape is crucial before diving into the technical intricacies.
@@ -28,7 +28,7 @@ Witness the challenges posed by the rapid growth of the internet. The transition
 Delve into the encryption renaissance, where mathematical algorithms became the vanguards of data protection. From DES to AES, understand the evolution of encryption standards.
 
 ### 1.2 Cybersecurity Frameworks and Standards
-#module-12
+#m-o-d-u-l-e
 #### Introduction to NIST Cybersecurity Framework
 
 The National Institute of Standards and Technology (NIST) Cybersecurity Framework provides a structured approach to developing, implementing, and improving cybersecurity programs. Understanding its components is essential for building a robust defense strategy.
