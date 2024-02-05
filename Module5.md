@@ -66,10 +66,12 @@ Output encoding prevents malicious user input from being executed as code.
 
 Implementing robust authentication and authorization mechanisms is critical for web application security.
 
-##### Authentication Best Practices:
+### Authentication Best Practices:
 
 - **Password Hashing**: Hash and salt passwords using algorithms like bcrypt.
 - **Multi-Factor Authentication (MFA)**: Add an additional layer of security with MFA.
+
+### Authorisation Best Practices:
 - **Principle of Least Privilege**: Assign the minimum level of access necessary.
 - **Role-Based Access Control (RBAC)**: Assign permissions based on user roles.
 
