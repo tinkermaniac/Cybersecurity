@@ -56,11 +56,11 @@ SIEM systems facilitate effective incident response by providing real-time alert
 
 #### Incident Handling Process:
 
-1. Detection: Identify and confirm the incident.
-2. Containment: Isolate affected systems to prevent further damage.
-3. Eradication: Remove the threat and restore affected systems.
-4. Recovery: Restore normal operations.
-5. Lessons Learned: Analyze the incident for improvements.
+1. **Detection:** Identify and confirm the incident.
+2. **Containment:** Isolate affected systems to prevent further damage.
+3. **Eradication:** Remove the threat and restore affected systems.
+4. **Recovery:** Restore normal operations.
+5. **Lessons Learned:** Analyze the incident for improvements.
 
 #### SIEM Reporting:
 - Generate reports on incidents, compliance, and security posture.
